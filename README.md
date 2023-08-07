@@ -1,2 +1,3 @@
 # day-75-GooglePlayStore-analysis
-analysis of Google Play Store apps
+#### Analysis of Google Play Store apps
+Day 75/100 of 100 Days of Code 
